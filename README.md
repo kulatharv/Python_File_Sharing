@@ -4,7 +4,7 @@
 A lightweight Python tool to **share any folder from your PC to other devices on the same network** using a built-in HTTP server.  
 It automatically generates a **QR code** for quick mobile access — no cloud or third-party software needed.
 
----
+--- 
 
 ## 🚀 Features
 - 📁 **Folder Sharing** – Serve any local folder over HTTP.
